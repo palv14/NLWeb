@@ -1,0 +1,1315 @@
+{
+  "module_info": {
+    "module_number": "1.1",
+    "module_title": "About this Module",
+    "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+    "lesson_title": "Lesson: 1.1 About this Module",
+    "total_content_items": 70
+  },
+  "lesson_metadata": [
+    {
+      "id": "lesson_8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ_763534ed664c04b74641db9b5bbe174b",
+      "title": "Lesson: 1.1 About this Module",
+      "content": "Lesson Title: 1.1 About this Module\nDescription: \nType: blocks\nIcon: Article",
+      "content_type": "lesson_metadata",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "lesson_structure",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "lesson_type": "blocks",
+        "extracted_at": "2025-08-04T17:17:21.822266",
+        "extraction_method": "lesson_structure_parsing"
+      }
+    },
+    {
+      "id": "lesson_8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ_763534ed664c04b74641db9b5bbe174b",
+      "title": "Lesson: 1.1 About this Module",
+      "content": "Lesson Title: 1.1 About this Module\nDescription: \nType: blocks\nIcon: Article",
+      "content_type": "lesson_metadata",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "lesson_structure",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "lesson_type": "blocks",
+        "extracted_at": "2025-08-04T17:17:21.822266",
+        "extraction_method": "lesson_structure_parsing"
+      }
+    }
+  ],
+  "lesson_content": [
+    {
+      "id": "lesson_item_clid4dd020002356wgtcxtglg_8368b9cef99b7ceb271d04e2a1783339",
+      "title": "Content: 1.1 About this Module",
+      "content": "Heading: <p><span style=\"color: rgb(186, 48, 42); font-size: 26px;\">Module 1: Writing Basics</span></p>\nParagraph: <p>In this module you will be introduced to <em>Keys to Early Writing</em>, a writing instruction framework for evidence-based instruction for the components of beginning writing instruction. This module is aligned to Chapter 1 in the training book.&nbsp;</p>",
+      "content_type": "lesson_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "lesson_item_structure",
+        "lesson_title": "1.1 About this Module",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "item_type": "text",
+        "item_family": "text",
+        "item_variant": "heading paragraph",
+        "extracted_at": "2025-08-04T17:17:21.822271",
+        "extraction_method": "lesson_item_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "lesson_item_clid4ni4a000g356woorp7llz_02860253cf862c694bcca7b89876077b",
+      "title": "Content: 1.1 About this Module",
+      "content": "Paragraph: <p><span style=\"font-size: 17px;\">This module covers these topics:</span></p><ul><li><span style=\"font-size: 17px;\">connections to models of writing instruction (<em>The Writing Rope, The Not So Simple View of Writing</em>)&nbsp;</span></li><li><span style=\"font-size: 17px;\">research about effective beginning writing instruction</span></li><li><span style=\"font-size: 17px;\">teaching principles for writing, including the <em>Gradual Release of Responsibility</em> model</span></li><li><span style=\"font-size: 17px;\">the difference between composing and transcription skills&nbsp;</span></li><li><span style=\"font-size: 17px;\">overview of spelling and handwriting instruction</span></li></ul>",
+      "content_type": "lesson_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "lesson_item_structure",
+        "lesson_title": "1.1 About this Module",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "item_type": "image",
+        "item_family": "image",
+        "item_variant": "text aside",
+        "extracted_at": "2025-08-04T17:17:21.822278",
+        "extraction_method": "lesson_item_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "lesson_item_clid85nf40028356wfkceo3xr_a37601e5f56f7f995d587f377477fa0f",
+      "title": "Content: 1.1 About this Module",
+      "content": "Paragraph: ",
+      "content_type": "lesson_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "lesson_item_structure",
+        "lesson_title": "1.1 About this Module",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "item_type": "image",
+        "item_family": "image",
+        "item_variant": "hero",
+        "extracted_at": "2025-08-04T17:17:21.822282",
+        "extraction_method": "lesson_item_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "lesson_item_clid8g1vj004x356wymumdz4g_33fd327c15e35e6423023fcf981ddc98",
+      "title": "Content: 1.1 About this Module",
+      "content": "Heading: <p><strong><span style=\"color: rgb(186, 48, 42); font-size: 26px;\">What is&nbsp;</span></strong><em><strong><span style=\"color: rgb(186, 48, 42); font-size: 26px;\">Keys to Early Writing?</span></strong></em></p>\nParagraph: <p><em>Keys to Early Writing&nbsp;</em>presents a framework for evidence-based writing instruction in kindergarten through grade 2. &nbsp;It is not a writing program. Rather, it provides the foundational knowledge teachers need to teach all components of beginning writing skills to young students regardless of the published writing program used in the schools where they teach. The instructional topics covered in this course, shown in the graphic above, address all the components that should be present in an early writing curriculum.&nbsp; A brief description is provided below for each topic.</p>",
+      "content_type": "lesson_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "lesson_item_structure",
+        "lesson_title": "1.1 About this Module",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "item_type": "text",
+        "item_family": "text",
+        "item_variant": "heading paragraph",
+        "extracted_at": "2025-08-04T17:17:21.822286",
+        "extraction_method": "lesson_item_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "lesson_item_cllfe7rdi000o35754o55ucjr_f28d248088af975cbe421051d6ef65fe",
+      "title": "Content: 1.1 About this Module",
+      "content": "Title: Writing Basics:\nDescription: <p><span style=\"font-size: 17px;\">instructional framework; early writing development; teaching principles; spelling and handwriting</span></p>\nTitle: Writing Community:\nDescription: <p><span style=\"font-size: 17px;\">writing environment; oral language as a foundation; daily opportunities to write; writing lesson routine</span></p>\nTitle: The Writing Process:\nDescription: <p><span style=\"font-size: 17px;\">think and plan, write, and revise stages; collaboration, conferencing and feedback</span></p>\nTitle: Writer's Craft and Text Structure:\nDescription: <p><span style=\"font-size: 17px;\">using mentor text; text structure for the three types of writing (informational, opinion, narrative)</span></p>\nTitle: Drawing, Labels, Lists:\nDescription: <p><span style=\"font-size: 17px;\">drawing as first steps to writing; oral rehearsal and dictation; lists and labels; linking to spelling and handwriting</span></p>\nTitle: Syntax, Sentences:\nDescription: <p><span style=\"font-size: 17px;\">sentence parts; four types of sentences; activities for developing syntactic awareness</span></p>\nTitle: Paragraph Writing:\nDescription: <p><span style=\"font-size: 17px;\">paragraph structure to support comprehension and writing; paragraph scaffolds; patterns of organization and transitions</span></p>\nTitle: Writing from Sources:\nDescription: <p><span style=\"font-size: 17px;\">using prompts to write about content; shared research and writing</span></p>",
+      "content_type": "lesson_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "lesson_item_structure",
+        "lesson_title": "1.1 About this Module",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "item_type": "interactive",
+        "item_family": "interactive",
+        "item_variant": "tabs",
+        "extracted_at": "2025-08-04T17:17:21.822295",
+        "extraction_method": "lesson_item_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "lesson_item_clid883hr002z356wcckj8o35_7875a28df77beecdc2020a4cf0db72c4",
+      "title": "Content: 1.1 About this Module",
+      "content": "Heading: <p><span style=\"font-size: 2.6rem\"><span style=\"color: rgb(186, 48, 42); text-decoration: inherit\">A Complete Writing Curriculum Integrates All Components</span></span></p>\nParagraph: <p>Each course module explores one writing component and provides instructional suggestions. However, it is important to remember that a complete writing curriculum for kindergarten through grade 2 should integrate multiple components. For example, during a drawing and labeling lesson in kindergarten, or a paragraph writing lesson in grade 2, the teacher will integrate instructional suggestions from <em>Writing Community</em>, <em>The Writing Process</em>, and <em>Writer&#39;s Craft &amp; Text Structure</em>.&nbsp;</p>",
+      "content_type": "lesson_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "lesson_item_structure",
+        "lesson_title": "1.1 About this Module",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "item_type": "text",
+        "item_family": "text",
+        "item_variant": "heading paragraph",
+        "extracted_at": "2025-08-04T17:17:21.822299",
+        "extraction_method": "lesson_item_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "lesson_item_clid4dd020002356wgtcxtglg_8368b9cef99b7ceb271d04e2a1783339",
+      "title": "Content: 1.1 About this Module",
+      "content": "Heading: <p><span style=\"color: rgb(186, 48, 42); font-size: 26px;\">Module 1: Writing Basics</span></p>\nParagraph: <p>In this module you will be introduced to <em>Keys to Early Writing</em>, a writing instruction framework for evidence-based instruction for the components of beginning writing instruction. This module is aligned to Chapter 1 in the training book.&nbsp;</p>",
+      "content_type": "lesson_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "lesson_item_structure",
+        "lesson_title": "1.1 About this Module",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "item_type": "text",
+        "item_family": "text",
+        "item_variant": "heading paragraph",
+        "extracted_at": "2025-08-04T17:17:21.822271",
+        "extraction_method": "lesson_item_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "lesson_item_clid4ni4a000g356woorp7llz_02860253cf862c694bcca7b89876077b",
+      "title": "Content: 1.1 About this Module",
+      "content": "Paragraph: <p><span style=\"font-size: 17px;\">This module covers these topics:</span></p><ul><li><span style=\"font-size: 17px;\">connections to models of writing instruction (<em>The Writing Rope, The Not So Simple View of Writing</em>)&nbsp;</span></li><li><span style=\"font-size: 17px;\">research about effective beginning writing instruction</span></li><li><span style=\"font-size: 17px;\">teaching principles for writing, including the <em>Gradual Release of Responsibility</em> model</span></li><li><span style=\"font-size: 17px;\">the difference between composing and transcription skills&nbsp;</span></li><li><span style=\"font-size: 17px;\">overview of spelling and handwriting instruction</span></li></ul>",
+      "content_type": "lesson_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "lesson_item_structure",
+        "lesson_title": "1.1 About this Module",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "item_type": "image",
+        "item_family": "image",
+        "item_variant": "text aside",
+        "extracted_at": "2025-08-04T17:17:21.822278",
+        "extraction_method": "lesson_item_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "lesson_item_clid85nf40028356wfkceo3xr_a37601e5f56f7f995d587f377477fa0f",
+      "title": "Content: 1.1 About this Module",
+      "content": "Paragraph: ",
+      "content_type": "lesson_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "lesson_item_structure",
+        "lesson_title": "1.1 About this Module",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "item_type": "image",
+        "item_family": "image",
+        "item_variant": "hero",
+        "extracted_at": "2025-08-04T17:17:21.822282",
+        "extraction_method": "lesson_item_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "lesson_item_clid8g1vj004x356wymumdz4g_33fd327c15e35e6423023fcf981ddc98",
+      "title": "Content: 1.1 About this Module",
+      "content": "Heading: <p><strong><span style=\"color: rgb(186, 48, 42); font-size: 26px;\">What is&nbsp;</span></strong><em><strong><span style=\"color: rgb(186, 48, 42); font-size: 26px;\">Keys to Early Writing?</span></strong></em></p>\nParagraph: <p><em>Keys to Early Writing&nbsp;</em>presents a framework for evidence-based writing instruction in kindergarten through grade 2. &nbsp;It is not a writing program. Rather, it provides the foundational knowledge teachers need to teach all components of beginning writing skills to young students regardless of the published writing program used in the schools where they teach. The instructional topics covered in this course, shown in the graphic above, address all the components that should be present in an early writing curriculum.&nbsp; A brief description is provided below for each topic.</p>",
+      "content_type": "lesson_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "lesson_item_structure",
+        "lesson_title": "1.1 About this Module",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "item_type": "text",
+        "item_family": "text",
+        "item_variant": "heading paragraph",
+        "extracted_at": "2025-08-04T17:17:21.822286",
+        "extraction_method": "lesson_item_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "lesson_item_cllfe7rdi000o35754o55ucjr_f28d248088af975cbe421051d6ef65fe",
+      "title": "Content: 1.1 About this Module",
+      "content": "Title: Writing Basics:\nDescription: <p><span style=\"font-size: 17px;\">instructional framework; early writing development; teaching principles; spelling and handwriting</span></p>\nTitle: Writing Community:\nDescription: <p><span style=\"font-size: 17px;\">writing environment; oral language as a foundation; daily opportunities to write; writing lesson routine</span></p>\nTitle: The Writing Process:\nDescription: <p><span style=\"font-size: 17px;\">think and plan, write, and revise stages; collaboration, conferencing and feedback</span></p>\nTitle: Writer's Craft and Text Structure:\nDescription: <p><span style=\"font-size: 17px;\">using mentor text; text structure for the three types of writing (informational, opinion, narrative)</span></p>\nTitle: Drawing, Labels, Lists:\nDescription: <p><span style=\"font-size: 17px;\">drawing as first steps to writing; oral rehearsal and dictation; lists and labels; linking to spelling and handwriting</span></p>\nTitle: Syntax, Sentences:\nDescription: <p><span style=\"font-size: 17px;\">sentence parts; four types of sentences; activities for developing syntactic awareness</span></p>\nTitle: Paragraph Writing:\nDescription: <p><span style=\"font-size: 17px;\">paragraph structure to support comprehension and writing; paragraph scaffolds; patterns of organization and transitions</span></p>\nTitle: Writing from Sources:\nDescription: <p><span style=\"font-size: 17px;\">using prompts to write about content; shared research and writing</span></p>",
+      "content_type": "lesson_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "lesson_item_structure",
+        "lesson_title": "1.1 About this Module",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "item_type": "interactive",
+        "item_family": "interactive",
+        "item_variant": "tabs",
+        "extracted_at": "2025-08-04T17:17:21.822295",
+        "extraction_method": "lesson_item_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "lesson_item_clid883hr002z356wcckj8o35_7875a28df77beecdc2020a4cf0db72c4",
+      "title": "Content: 1.1 About this Module",
+      "content": "Heading: <p><span style=\"font-size: 2.6rem\"><span style=\"color: rgb(186, 48, 42); text-decoration: inherit\">A Complete Writing Curriculum Integrates All Components</span></span></p>\nParagraph: <p>Each course module explores one writing component and provides instructional suggestions. However, it is important to remember that a complete writing curriculum for kindergarten through grade 2 should integrate multiple components. For example, during a drawing and labeling lesson in kindergarten, or a paragraph writing lesson in grade 2, the teacher will integrate instructional suggestions from <em>Writing Community</em>, <em>The Writing Process</em>, and <em>Writer&#39;s Craft &amp; Text Structure</em>.&nbsp;</p>",
+      "content_type": "lesson_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "lesson_item_structure",
+        "lesson_title": "1.1 About this Module",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "item_type": "text",
+        "item_family": "text",
+        "item_variant": "heading paragraph",
+        "extracted_at": "2025-08-04T17:17:21.822299",
+        "extraction_method": "lesson_item_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    }
+  ],
+  "quiz_content": [
+    {
+      "id": "quiz_content_6cc3c9afd072e7002fb4367ada13652e",
+      "title": "Quiz: 1.1 About this Module",
+      "content": "Interactive: Writing Basics:\nDescription: <p><span style=\"font-size: 17px;\">instructional framework; early writing development; teaching principles; spelling and handwriting</span></p>",
+      "content_type": "quiz_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "quiz_content",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "lesson_title": "1.1 About this Module",
+        "item_id": "cllfe7rdi000o35754o55ucjr",
+        "item_type": "interactive",
+        "extracted_at": "2025-08-04T18:04:15.747634",
+        "extraction_method": "quiz_content_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "quiz_content_6cc3c9afd072e7002fb4367ada13652e",
+      "title": "Quiz: 1.1 About this Module",
+      "content": "Interactive: Writing Community:\nDescription: <p><span style=\"font-size: 17px;\">writing environment; oral language as a foundation; daily opportunities to write; writing lesson routine</span></p>",
+      "content_type": "quiz_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "quiz_content",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "lesson_title": "1.1 About this Module",
+        "item_id": "cllfe7rdi000o35754o55ucjr",
+        "item_type": "interactive",
+        "extracted_at": "2025-08-04T18:04:15.747636",
+        "extraction_method": "quiz_content_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "quiz_content_6cc3c9afd072e7002fb4367ada13652e",
+      "title": "Quiz: 1.1 About this Module",
+      "content": "Interactive: The Writing Process:\nDescription: <p><span style=\"font-size: 17px;\">think and plan, write, and revise stages; collaboration, conferencing and feedback</span></p>",
+      "content_type": "quiz_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "quiz_content",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "lesson_title": "1.1 About this Module",
+        "item_id": "cllfe7rdi000o35754o55ucjr",
+        "item_type": "interactive",
+        "extracted_at": "2025-08-04T18:04:15.747639",
+        "extraction_method": "quiz_content_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "quiz_content_6cc3c9afd072e7002fb4367ada13652e",
+      "title": "Quiz: 1.1 About this Module",
+      "content": "Interactive: Writer's Craft and Text Structure:\nDescription: <p><span style=\"font-size: 17px;\">using mentor text; text structure for the three types of writing (informational, opinion, narrative)</span></p>",
+      "content_type": "quiz_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "quiz_content",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "lesson_title": "1.1 About this Module",
+        "item_id": "cllfe7rdi000o35754o55ucjr",
+        "item_type": "interactive",
+        "extracted_at": "2025-08-04T18:04:15.747641",
+        "extraction_method": "quiz_content_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "quiz_content_6cc3c9afd072e7002fb4367ada13652e",
+      "title": "Quiz: 1.1 About this Module",
+      "content": "Interactive: Drawing, Labels, Lists:\nDescription: <p><span style=\"font-size: 17px;\">drawing as first steps to writing; oral rehearsal and dictation; lists and labels; linking to spelling and handwriting</span></p>",
+      "content_type": "quiz_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "quiz_content",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "lesson_title": "1.1 About this Module",
+        "item_id": "cllfe7rdi000o35754o55ucjr",
+        "item_type": "interactive",
+        "extracted_at": "2025-08-04T18:04:15.747643",
+        "extraction_method": "quiz_content_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "quiz_content_6cc3c9afd072e7002fb4367ada13652e",
+      "title": "Quiz: 1.1 About this Module",
+      "content": "Interactive: Syntax, Sentences:\nDescription: <p><span style=\"font-size: 17px;\">sentence parts; four types of sentences; activities for developing syntactic awareness</span></p>",
+      "content_type": "quiz_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "quiz_content",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "lesson_title": "1.1 About this Module",
+        "item_id": "cllfe7rdi000o35754o55ucjr",
+        "item_type": "interactive",
+        "extracted_at": "2025-08-04T18:04:15.747646",
+        "extraction_method": "quiz_content_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "quiz_content_6cc3c9afd072e7002fb4367ada13652e",
+      "title": "Quiz: 1.1 About this Module",
+      "content": "Interactive: Paragraph Writing:\nDescription: <p><span style=\"font-size: 17px;\">paragraph structure to support comprehension and writing; paragraph scaffolds; patterns of organization and transitions</span></p>",
+      "content_type": "quiz_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "quiz_content",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "lesson_title": "1.1 About this Module",
+        "item_id": "cllfe7rdi000o35754o55ucjr",
+        "item_type": "interactive",
+        "extracted_at": "2025-08-04T18:04:15.747648",
+        "extraction_method": "quiz_content_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "quiz_content_6cc3c9afd072e7002fb4367ada13652e",
+      "title": "Quiz: 1.1 About this Module",
+      "content": "Interactive: Writing from Sources:\nDescription: <p><span style=\"font-size: 17px;\">using prompts to write about content; shared research and writing</span></p>",
+      "content_type": "quiz_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "quiz_content",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "lesson_title": "1.1 About this Module",
+        "item_id": "cllfe7rdi000o35754o55ucjr",
+        "item_type": "interactive",
+        "extracted_at": "2025-08-04T18:04:15.747650",
+        "extraction_method": "quiz_content_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "quiz_content_6cc3c9afd072e7002fb4367ada13652e",
+      "title": "Quiz: 1.1 About this Module",
+      "content": "Interactive: Writing Basics:\nDescription: <p><span style=\"font-size: 17px;\">instructional framework; early writing development; teaching principles; spelling and handwriting</span></p>",
+      "content_type": "quiz_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "quiz_content",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "lesson_title": "1.1 About this Module",
+        "item_id": "cllfe7rdi000o35754o55ucjr",
+        "item_type": "interactive",
+        "extracted_at": "2025-08-04T18:04:15.747634",
+        "extraction_method": "quiz_content_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "quiz_content_6cc3c9afd072e7002fb4367ada13652e",
+      "title": "Quiz: 1.1 About this Module",
+      "content": "Interactive: Writing Community:\nDescription: <p><span style=\"font-size: 17px;\">writing environment; oral language as a foundation; daily opportunities to write; writing lesson routine</span></p>",
+      "content_type": "quiz_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "quiz_content",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "lesson_title": "1.1 About this Module",
+        "item_id": "cllfe7rdi000o35754o55ucjr",
+        "item_type": "interactive",
+        "extracted_at": "2025-08-04T18:04:15.747636",
+        "extraction_method": "quiz_content_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "quiz_content_6cc3c9afd072e7002fb4367ada13652e",
+      "title": "Quiz: 1.1 About this Module",
+      "content": "Interactive: The Writing Process:\nDescription: <p><span style=\"font-size: 17px;\">think and plan, write, and revise stages; collaboration, conferencing and feedback</span></p>",
+      "content_type": "quiz_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "quiz_content",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "lesson_title": "1.1 About this Module",
+        "item_id": "cllfe7rdi000o35754o55ucjr",
+        "item_type": "interactive",
+        "extracted_at": "2025-08-04T18:04:15.747639",
+        "extraction_method": "quiz_content_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "quiz_content_6cc3c9afd072e7002fb4367ada13652e",
+      "title": "Quiz: 1.1 About this Module",
+      "content": "Interactive: Writer's Craft and Text Structure:\nDescription: <p><span style=\"font-size: 17px;\">using mentor text; text structure for the three types of writing (informational, opinion, narrative)</span></p>",
+      "content_type": "quiz_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "quiz_content",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "lesson_title": "1.1 About this Module",
+        "item_id": "cllfe7rdi000o35754o55ucjr",
+        "item_type": "interactive",
+        "extracted_at": "2025-08-04T18:04:15.747641",
+        "extraction_method": "quiz_content_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "quiz_content_6cc3c9afd072e7002fb4367ada13652e",
+      "title": "Quiz: 1.1 About this Module",
+      "content": "Interactive: Drawing, Labels, Lists:\nDescription: <p><span style=\"font-size: 17px;\">drawing as first steps to writing; oral rehearsal and dictation; lists and labels; linking to spelling and handwriting</span></p>",
+      "content_type": "quiz_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "quiz_content",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "lesson_title": "1.1 About this Module",
+        "item_id": "cllfe7rdi000o35754o55ucjr",
+        "item_type": "interactive",
+        "extracted_at": "2025-08-04T18:04:15.747643",
+        "extraction_method": "quiz_content_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "quiz_content_6cc3c9afd072e7002fb4367ada13652e",
+      "title": "Quiz: 1.1 About this Module",
+      "content": "Interactive: Syntax, Sentences:\nDescription: <p><span style=\"font-size: 17px;\">sentence parts; four types of sentences; activities for developing syntactic awareness</span></p>",
+      "content_type": "quiz_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "quiz_content",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "lesson_title": "1.1 About this Module",
+        "item_id": "cllfe7rdi000o35754o55ucjr",
+        "item_type": "interactive",
+        "extracted_at": "2025-08-04T18:04:15.747646",
+        "extraction_method": "quiz_content_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "quiz_content_6cc3c9afd072e7002fb4367ada13652e",
+      "title": "Quiz: 1.1 About this Module",
+      "content": "Interactive: Paragraph Writing:\nDescription: <p><span style=\"font-size: 17px;\">paragraph structure to support comprehension and writing; paragraph scaffolds; patterns of organization and transitions</span></p>",
+      "content_type": "quiz_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "quiz_content",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "lesson_title": "1.1 About this Module",
+        "item_id": "cllfe7rdi000o35754o55ucjr",
+        "item_type": "interactive",
+        "extracted_at": "2025-08-04T18:04:15.747648",
+        "extraction_method": "quiz_content_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "quiz_content_6cc3c9afd072e7002fb4367ada13652e",
+      "title": "Quiz: 1.1 About this Module",
+      "content": "Interactive: Writing from Sources:\nDescription: <p><span style=\"font-size: 17px;\">using prompts to write about content; shared research and writing</span></p>",
+      "content_type": "quiz_content",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "quiz_content",
+        "lesson_id": "8BJ2M2GrEDAsngSw6IUxpSV7VbfD5nDQ",
+        "lesson_title": "1.1 About this Module",
+        "item_id": "cllfe7rdi000o35754o55ucjr",
+        "item_type": "interactive",
+        "extracted_at": "2025-08-04T18:04:15.747650",
+        "extraction_method": "quiz_content_parsing",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    }
+  ],
+  "pdf_content": [],
+  "image_content": [
+    {
+      "id": "image_content_9fa931b3133df3b6ec4600cd8d9b5e86",
+      "title": "Image: 1.1 About this Module - Image Content: learning-Objectives-target",
+      "content": "Image content: learning-Objectives-target. This image appears to be educational content related to: learning.",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/learning-Objectives-target.jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 9573,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308032",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "9fa931b3133df3b6ec4600cd8d9b5e86",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "image_content_8a478fc21b66c0ddb8fe7e9227e92936",
+      "title": "Image: 1.1 About this Module - Image Content: square, circle, triangle",
+      "content": "Image content: square, circle, triangle.",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/square, circle, triangle.jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 54653,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308077",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "8a478fc21b66c0ddb8fe7e9227e92936",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "image_content_6131602d4b6aab846ccb858be893e8e6",
+      "title": "Image: 1.1 About this Module - Image Content: not so simple ",
+      "content": "Image content: not so simple .",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/not so simple .jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 95610,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308114",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "6131602d4b6aab846ccb858be893e8e6",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "image_content_4091ddd71e8516e9ab5ee70996817c46",
+      "title": "Image: 1.1 About this Module - Image Content: Sernt to Par",
+      "content": "Image content: Sernt to Par.",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/Sernt to Par.jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 20949,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308177",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "4091ddd71e8516e9ab5ee70996817c46",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "image_content_c45ff75ba2bd41e484e2d401e784a6ef",
+      "title": "Image: 1.1 About this Module - Image Content: DjUPK6p3jryLOPKP",
+      "content": "Image content: DjUPK6p3jryLOPKP.",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/DjUPK6p3jryLOPKP.jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 9542,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308244",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "c45ff75ba2bd41e484e2d401e784a6ef",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "image_content_869a7f332d1a645d1e8aa5e0096280c3",
+      "title": "Image: 1.1 About this Module - Image Content: The Writing Rope_",
+      "content": "Image content: The Writing Rope_.",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/The Writing Rope_.jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 175997,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308273",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "869a7f332d1a645d1e8aa5e0096280c3",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "image_content_9fbef5de7c87f162c0a5d1c8789492c1",
+      "title": "Image: 1.1 About this Module - Image Content: RHAz46MVMMugB5hH",
+      "content": "Image content: RHAz46MVMMugB5hH.",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/RHAz46MVMMugB5hH.jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 3695,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308302",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "9fbef5de7c87f162c0a5d1c8789492c1",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "image_content_54cc76e621c7d3ac6f83fb48f181adb1",
+      "title": "Image: 1.1 About this Module - Image Content: Art Sci",
+      "content": "Image content: Art Sci.",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/Art Sci.jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 9656,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308331",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "54cc76e621c7d3ac6f83fb48f181adb1",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "image_content_0fb699cc08dd1330b0d51a53df8ea765",
+      "title": "Image: 1.1 About this Module - Image Content: 173_joan_sedita_how_to_use_mentor_texts_final (1080p) CC",
+      "content": "Image content: 173_joan_sedita_how_to_use_mentor_texts_final (1080p) CC.",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/173_joan_sedita_how_to_use_mentor_texts_final (1080p) CC.jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 228,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308364",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "0fb699cc08dd1330b0d51a53df8ea765",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "image_content_c9c7a18ab543ff59a5c4e38c13d3369c",
+      "title": "Image: 1.1 About this Module - Image Content: stock-image",
+      "content": "Image content: stock-image.",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/stock-image.jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 90077,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308423",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "c9c7a18ab543ff59a5c4e38c13d3369c",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "image_content_246402ab2c6807594dddd2c726b2db4b",
+      "title": "Image: 1.1 About this Module - Image Content: RHAz46MVMMugB5hH",
+      "content": "Image content: RHAz46MVMMugB5hH.",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/AUV6Vu/RHAz46MVMMugB5hH.jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 3695,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308529",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "246402ab2c6807594dddd2c726b2db4b",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "image_content_4b7309c69df137911a147e72d124f6b2",
+      "title": "Image: 1.1 About this Module - Image Content: RHAz46MVMMugB5hH",
+      "content": "Image content: RHAz46MVMMugB5hH.",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/n7Sibm/RHAz46MVMMugB5hH.jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 3695,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308574",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "4b7309c69df137911a147e72d124f6b2",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "image_content_458ee57783ae6db58422360334f96e38",
+      "title": "Image: 1.1 About this Module - Image Content: quote_background",
+      "content": "Image content: quote_background.",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/Z17RHS/quote_background.jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 168500,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308630",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "458ee57783ae6db58422360334f96e38",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "image_content_9fa931b3133df3b6ec4600cd8d9b5e86",
+      "title": "Image: 1.1 About this Module - Image Content: learning-Objectives-target",
+      "content": "Image content: learning-Objectives-target. This image appears to be educational content related to: learning.",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/learning-Objectives-target.jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 9573,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308032",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "9fa931b3133df3b6ec4600cd8d9b5e86",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "image_content_8a478fc21b66c0ddb8fe7e9227e92936",
+      "title": "Image: 1.1 About this Module - Image Content: square, circle, triangle",
+      "content": "Image content: square, circle, triangle.",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/square, circle, triangle.jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 54653,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308077",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "8a478fc21b66c0ddb8fe7e9227e92936",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "image_content_6131602d4b6aab846ccb858be893e8e6",
+      "title": "Image: 1.1 About this Module - Image Content: not so simple ",
+      "content": "Image content: not so simple .",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/not so simple .jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 95610,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308114",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "6131602d4b6aab846ccb858be893e8e6",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "image_content_4091ddd71e8516e9ab5ee70996817c46",
+      "title": "Image: 1.1 About this Module - Image Content: Sernt to Par",
+      "content": "Image content: Sernt to Par.",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/Sernt to Par.jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 20949,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308177",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "4091ddd71e8516e9ab5ee70996817c46",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "image_content_c45ff75ba2bd41e484e2d401e784a6ef",
+      "title": "Image: 1.1 About this Module - Image Content: DjUPK6p3jryLOPKP",
+      "content": "Image content: DjUPK6p3jryLOPKP.",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/DjUPK6p3jryLOPKP.jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 9542,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308244",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "c45ff75ba2bd41e484e2d401e784a6ef",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "image_content_869a7f332d1a645d1e8aa5e0096280c3",
+      "title": "Image: 1.1 About this Module - Image Content: The Writing Rope_",
+      "content": "Image content: The Writing Rope_.",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/The Writing Rope_.jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 175997,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308273",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "869a7f332d1a645d1e8aa5e0096280c3",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "image_content_9fbef5de7c87f162c0a5d1c8789492c1",
+      "title": "Image: 1.1 About this Module - Image Content: RHAz46MVMMugB5hH",
+      "content": "Image content: RHAz46MVMMugB5hH.",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/RHAz46MVMMugB5hH.jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 3695,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308302",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "9fbef5de7c87f162c0a5d1c8789492c1",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "image_content_54cc76e621c7d3ac6f83fb48f181adb1",
+      "title": "Image: 1.1 About this Module - Image Content: Art Sci",
+      "content": "Image content: Art Sci.",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/Art Sci.jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 9656,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308331",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "54cc76e621c7d3ac6f83fb48f181adb1",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "image_content_0fb699cc08dd1330b0d51a53df8ea765",
+      "title": "Image: 1.1 About this Module - Image Content: 173_joan_sedita_how_to_use_mentor_texts_final (1080p) CC",
+      "content": "Image content: 173_joan_sedita_how_to_use_mentor_texts_final (1080p) CC.",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/173_joan_sedita_how_to_use_mentor_texts_final (1080p) CC.jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 228,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308364",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "0fb699cc08dd1330b0d51a53df8ea765",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "image_content_c9c7a18ab543ff59a5c4e38c13d3369c",
+      "title": "Image: 1.1 About this Module - Image Content: stock-image",
+      "content": "Image content: stock-image.",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/stock-image.jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 90077,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308423",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "c9c7a18ab543ff59a5c4e38c13d3369c",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "image_content_246402ab2c6807594dddd2c726b2db4b",
+      "title": "Image: 1.1 About this Module - Image Content: RHAz46MVMMugB5hH",
+      "content": "Image content: RHAz46MVMMugB5hH.",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/AUV6Vu/RHAz46MVMMugB5hH.jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 3695,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308529",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "246402ab2c6807594dddd2c726b2db4b",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "image_content_4b7309c69df137911a147e72d124f6b2",
+      "title": "Image: 1.1 About this Module - Image Content: RHAz46MVMMugB5hH",
+      "content": "Image content: RHAz46MVMMugB5hH.",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/n7Sibm/RHAz46MVMMugB5hH.jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 3695,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308574",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "4b7309c69df137911a147e72d124f6b2",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "image_content_458ee57783ae6db58422360334f96e38",
+      "title": "Image: 1.1 About this Module - Image Content: quote_background",
+      "content": "Image content: quote_background.",
+      "content_type": "image_content",
+      "file_path": "scormcontent/assets/Z17RHS/quote_background.jpg",
+      "metadata": {
+        "source": "image_file",
+        "file_size": 168500,
+        "ocr_available": false,
+        "ocr_text_length": 0,
+        "extracted_at": "2025-08-07T11:01:50.308630",
+        "extraction_method": "image_description_and_ocr",
+        "item_id": "458ee57783ae6db58422360334f96e38",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    }
+  ],
+  "video_content": [
+    {
+      "id": "video_content_c716504176992c57d3a5dca5a40b1e8d",
+      "title": "Video: 1.1 About this Module - Video Content: 173_joan_sedita_how_to_use_mentor_texts_final (1080p) CC",
+      "content": "Video: 173_joan_sedita_how_to_use_mentor_texts_final (1080p) CC\nDuration: 157.96 seconds\nResolution: 1280x720\nFPS: 29.97002997002997\nTranscript: All of us learn to write by being taught certain skills and strategies but we also learn to write by emulating other writers very simple example if you've been in a car accident and you go down to the police station and you have to write an accident report and you've never written one before what do you do you say can I view some accident reports and see how others do it and then you look at a few models and you go OK I know how to do this right or let's say you're an educator and you're writing a grant for some funding and you've never written a grant before what do you do you look at how other grants have been written and then all of a sudden you emulate it so this is true with young children as well if we can look at how others write really beautiful sentences elaborated sentences if we can see how others use a really great transition word to make a connection between one sentence and another if we're trying to learn how to write an introduction to an opinion or argument piece and how to state a claim and we can see how other people have stated claims we emulate that and that's the whole oh goal or usefulness of what's called mentor text now too often what teachers do with mentor text is they'll take maybe a whole poem or a whole chapter in a book or an article and they'll say this is what a good informational piece will look like so make your writing look like that that's too overwhelming that's the mistake they make the other mistake is that just by showing students a good example of a piece of writing the students will magically figure out how to emulate it what we have to be careful with mentor text is #1 pick the text for a very specific purpose so I want to teach students how to use the trans the transcription word next or finally find a couple of examples they might just be two or three sentences where somebody's really done a great job of that unpack it with the students and then say now you try to do the same thing but with something you're writing about and it's that explicitness the guided practice and that sort of very narrow focus for your mentor text the other thing I'd suggest about mentor text is show more than one example so you know if you can find two or three examples that's even better",
+      "content_type": "video_content",
+      "file_path": "scormcontent/assets/173_joan_sedita_how_to_use_mentor_texts_final (1080p) CC.mp4",
+      "metadata": {
+        "source": "video_file",
+        "duration": 157.96,
+        "resolution": [
+          1280,
+          720
+        ],
+        "fps": 29.97002997002997,
+        "file_size": 46707132,
+        "transcript_available": true,
+        "transcript_length": 2248,
+        "extracted_at": "2025-08-07T11:03:06.562049",
+        "extraction_method": "video_metadata_and_transcription",
+        "item_id": "c716504176992c57d3a5dca5a40b1e8d",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "video_content_3c2981d46827687803e0a850197cbb62",
+      "title": "Video: 1.1 About this Module - Video Content: IES Elementary Overview (1)",
+      "content": "Video: IES Elementary Overview (1)\nDuration: 334.40 seconds\nResolution: 1280x720\nFPS: 29.97002997002997\nTranscript: Writing is a fundamental part of engaging in professional social community and civic activities many employees have at least some responsibility for writing and the ability to write well is a critical component of being able to communicate effectively to a variety of audiences writing is not only a valuable tool for communicating to others but it can also be used to help clarify one's own ideas in the learning process and as a means of self-expression in addition people with strong writing skills may have an advantage throughout their school career and in the job market the authors of the Institute of Education sciences practice guide teaching elementary school students to be effective writers believe that students who develop strong writing skills at an early age acquire valuable tools for learning communication and self-expression these skills can be developed through effective writing instruction practices that include adequate time for students to write this video describes 6 strategies for teaching writing to elementary students based on the recommendations in the practice guide these strategies are also highlighted on the rel SE infographic instructional strategies for teaching writing to elementary students from the time students begin writing in kindergarten it is important that they are provided with explicit instruction not only do students need to learn to physically write letters words and sentences but they need to gain an understanding of the writing process the means through which a writer composes text components of the writing process include planning drafting sharing evaluating revising and editing students must be taught how to engage in each of these and the fact that writing is not a linear process they will often move back and forth amongst components teachers will need to engage in the I do we do you do process to help students learn how to develop their writing skills as students learn to compose text teachers need to provide a variety of strategies to help them engage in the writing process for instance teaching students to organize their thoughts and ideas in an outline before they begin writing may be helpful also using acronyms such as pow for pick ideas organized notes write and say more may help students recall strategies that may help them as they plan draft and finalize writing projects it is important to note that explicit writing instruction should occur across content areas students need to learn how to write depending on their purpose and audience a report for science is written differently than a narrative report written for social studies they will need to learn the important characteristics of different types of writing and should have opportunities over the course of the school year to write for a variety of purposes and audiences mentor texts can be an important tool to help teachers show students what various types of writing look like and to demonstrate the techniques used that are specific to a particular type of text elementary school teachers are the best writers in their classrooms and it is important that they show their students how to write a document camera can be an excellent tool to enable teachers to write in front of their students teachers may think aloud as they demonstrate the various components of writing or engage in writing a specific portion of text such as an introduction students need to see their teachers right think rethink and rewrite more than likely students will not all be at the same level when it comes to the development of their writing skills and they will need varying levels of support teachers will need to identify the strengths and weaknesses in student writing so instruction can be differentiated and scaffolded when necessary when students strengths and needs are identified teachers may work with small groups who need help with a similar skill or perhaps one-on-one with particular students teachers should build on the strengths of their students and provide opportunities for students who are doing well to continue to develop their skills students need not only to develop writing skills but they also need to be motivated to write oftentimes writing centers provide a supportive and collaborative environment so that students are encouraged to grow as writers students may be provided the opportunity to choose their own writing topics work with one another and also share final products in addition a variety of tools may be provided in the centre depending on the grade level of students younger students may have access to paper variety of colors and markers or crayons while older students may use a computer sticky notes highlighters etcetera when students have choices and feel connected to their teachers and to one another they may feel safe to engage freely in the writing process the importance of the ability to write well cannot be overstated and these skills must be taught early when teachers provide explicit instruction teach students to use a variety of strategies provide writing instruction across content areas model the writing process for students provide scaffolding instruction and allow students to collaborate in writing centers students can develop strong writing skills these skills will be invaluable to them as they move through their school careers into their professional lives and engage in civic and community responsibilities",
+      "content_type": "video_content",
+      "file_path": "scormcontent/assets/IES Elementary Overview (1).mp4",
+      "metadata": {
+        "source": "video_file",
+        "duration": 334.4,
+        "resolution": [
+          1280,
+          720
+        ],
+        "fps": 29.97002997002997,
+        "file_size": 52487264,
+        "transcript_available": true,
+        "transcript_length": 5412,
+        "extracted_at": "2025-08-07T11:05:50.784445",
+        "extraction_method": "video_metadata_and_transcription",
+        "item_id": "3c2981d46827687803e0a850197cbb62",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "video_content_40694072d276a714f281ba860d34bf75",
+      "title": "Video: 1.1 About this Module - Video Content: The Writing Rope_",
+      "content": "Video: The Writing Rope_\nDuration: 593.83 seconds\nResolution: 1280x720\nFPS: 29.97002997002997\nTranscript: The writing rope basically has five pieces to it each one could be represented as if they were strands in a rope right and each one we can talk about it instruction about each level of the writing rope and think about what we need to teach it and to practice it but in the end what students have to be able to do is integrate all of them at the same time like strands in a row and then put them all together to be an effective writing So what people often ask me what what are the strands in the rope what are those components well why did you organize it the way you did the first strand is the critical thinking and I put that up at the top and this involves all the skills and strategies that are needed to be able to write about what you're thinking write about what you're learning write about what you're reading so this includes everything from if you're reading something or watching a video right and you want to write about it it includes that ability to 1st decide what's important and that involves a lot of critical thinking it then involves being able to take some notes somehow to get that down because you're not going to hold it all in your head right so how do you get that down so it's note taking skills but then it's also thinking about how you want to plan what you want to say about what you've just read or learned and that starts to get us into another part of that first strand which is the pages of the writing process that first you have to think a little then you have to plan a little then you write a little then you revise what you wrote and then you recycle through that so that's the critical thinking part of the strand it encompasses an awful lot of skills and strategies as well as the stages in the writing process the second strand in the rope has to do with sentences I call it syntax but it's syntactic awareness actually that you're trying to develop with students and you know if you think about it the individual sentence is like aside from words it's the like the smallest unit of structure in a piece of writing but if you can't write a good sentence you're not going to be able to write anything else that's longer and so it really is the core and then we have a lot of older students who have difficulty with writing and the problem is going right back to that basic sentence level so that's the second strand the third strand of the writing rope has to do with text structure and this this can cover really broad levels of text structure so for example if you think about the three major types or genres of writing the narrative informational and opinion or argument if you're an older student what are the structures that represent those three types how do you write an introduction for each of them or a conclusion how is the body developed you know narrative the organizational structure might be beginning middle end informational it's gonna be big ideas and sub ideas opinion it's gonna be reasons and evidence and counterclaims and rebuttals so that's the broadest level of text structure but the next level down is paragraphs structure and paragraph structure along with sentence writing is are the two sort of basic building blocks of being able to write any piece of text and we have many many students who do not have a sense of what a paragraph is how you can organize your ideas into paragraphs that when you move from one main idea to another main idea that that's time to start a\n\nAnd then another piece that's very much connected to that are what's called patterns of organization so that includes descriptive writing sequence or chronology cause and effect right problem and solution so patterns of organization and that could be at a particular paragraph level I'm going to describe in this paragraph and then this one I'm going to tell the order or it could be several within one paragraph and then the final piece of the text structure strand of the writing rope our transition words and phrases these are little they're gems they're like worth their weight in gold and students who have good language skills transitions come naturally to them they know to say however and therefore and 1st and next and on the other hand but for students who struggle with language and and and getting their ideas out these words don't come naturally so we need to explicitly teach them and they very often signal a pattern of organization or they they signal that you're about to move from one paragraph to another so that's the third strand of the rope the 4th strand of the writing rope has to do with what I labeled writing craft so this can include anything from let's say how you use dialogue in a narrative to get across a certain emotion right or to get across some ideas that you want the reader to understand it includes all those other literary devices that are out there right you know flashback allegory simile metaphor there's so many of them but the other thing that I tucked in under this strand of the rope is what's referred to often as tap and that's audience and purpose because as a writer if you're not thinking about your audience then you're not your writing isn't going to address the needs of that audience and so a writer needs to always be thinking about who's going to read this what is my purpose for writing this and what is the actual task and that then ends up connecting with a lot of writers craft or writers move now one of the things about writing craft that 4th strand of the rope is that one of the ways to help students learn a particular technique maybe it's how to use a transition word or how to use dialogue between 2 characters is to show students what's called mentor models of that so you pick two or three really good examples of that specific skill that you want to explicitly teach you have the students see how another author has done that you talk about it you think it out loud the teacher actually models that writers move or writers craft or even a writing skill and then the students try it on their own with guided practice the 5th strand in the writing rope is about transcription skills So what does that mean they are literally skills including spelling handwriting and or keyboarding and they're the skills that you need to literally transcribe the words on the page very often these I sort of see these skills as best taught like in a phonics lesson rather than in a lesson where you're teaching students the skills that are associated with the other 4 strands of the rope the critical thinking the text structure the sentence skills the writing craft right because transcription skills are all about with this as it relates to the spelling if students have a word they want to express they need to know how to spell it which means they need to know the alphabetic principle and they need to know how phonemes the sounds and the words are represented by graphemes and all of that is best taught during a phonics lesson where you're learning those skills not only to spell the words but also to decode them I also think especially with young children handwriting actually begins when you're first learning the letter shape associated with the letter sound and so as students are learning a letter sound combination maybe the letter H that goes with the sound if they are also writing that out both the uppercase and the lowercase if they're writing that out as they're saying the sound and seeing the letter it not only supports their growth of alphabetic knowledge but it also that's where they begin beginning handwriting skills one of the thing that I'd like to say about transcription skills I think it has sort of a corollary to something that we see when it comes to reading and that is we know when it comes to decoding skills students as they get older who have not developed solid fluency right that ability to see words sound them out quickly get to the word and read it right we know that if students are not fluent with that by the time they hit grade end of grade 3 or 4 it's going to put it's going to tax the thinking part of their reading their ability to focus on making meaning when they read and I think it's very similar with writing especially by the time students are in 4th grade if they aren't fluent with being able to spell the words they want to say and handwrite or type them out then they're putting so much energy into that transcription part of the act that there's not much left over for the critical thinking or the application of text structure knowledge or how to apply things like being aware of the task audience and purpose and getting across the actual meaning in what you want to say",
+      "content_type": "video_content",
+      "file_path": "scormcontent/assets/The Writing Rope_.mp4",
+      "metadata": {
+        "source": "video_file",
+        "duration": 593.83,
+        "resolution": [
+          1280,
+          720
+        ],
+        "fps": 29.97002997002997,
+        "file_size": 190822057,
+        "transcript_available": true,
+        "transcript_length": 8636,
+        "extracted_at": "2025-08-07T11:11:40.341340",
+        "extraction_method": "video_metadata_and_transcription",
+        "item_id": "40694072d276a714f281ba860d34bf75",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "video_content_c716504176992c57d3a5dca5a40b1e8d",
+      "title": "Video: 1.1 About this Module - Video Content: 173_joan_sedita_how_to_use_mentor_texts_final (1080p) CC",
+      "content": "Video: 173_joan_sedita_how_to_use_mentor_texts_final (1080p) CC\nDuration: 157.96 seconds\nResolution: 1280x720\nFPS: 29.97002997002997\nTranscript: All of us learn to write by being taught certain skills and strategies but we also learn to write by emulating other writers very simple example if you've been in a car accident and you go down to the police station and you have to write an accident report and you've never written one before what do you do you say can I view some accident reports and see how others do it and then you look at a few models and you go OK I know how to do this right or let's say you're an educator and you're writing a grant for some funding and you've never written a grant before what do you do you look at how other grants have been written and then all of a sudden you emulate it so this is true with young children as well if we can look at how others write really beautiful sentences elaborated sentences if we can see how others use a really great transition word to make a connection between one sentence and another if we're trying to learn how to write an introduction to an opinion or argument piece and how to state a claim and we can see how other people have stated claims we emulate that and that's the whole oh goal or usefulness of what's called mentor text now too often what teachers do with mentor text is they'll take maybe a whole poem or a whole chapter in a book or an article and they'll say this is what a good informational piece will look like so make your writing look like that that's too overwhelming that's the mistake they make the other mistake is that just by showing students a good example of a piece of writing the students will magically figure out how to emulate it what we have to be careful with mentor text is #1 pick the text for a very specific purpose so I want to teach students how to use the trans the transcription word next or finally find a couple of examples they might just be two or three sentences where somebody's really done a great job of that unpack it with the students and then say now you try to do the same thing but with something you're writing about and it's that explicitness the guided practice and that sort of very narrow focus for your mentor text the other thing I'd suggest about mentor text is show more than one example so you know if you can find two or three examples that's even better",
+      "content_type": "video_content",
+      "file_path": "scormcontent/assets/173_joan_sedita_how_to_use_mentor_texts_final (1080p) CC.mp4",
+      "metadata": {
+        "source": "video_file",
+        "duration": 157.96,
+        "resolution": [
+          1280,
+          720
+        ],
+        "fps": 29.97002997002997,
+        "file_size": 46707132,
+        "transcript_available": true,
+        "transcript_length": 2248,
+        "extracted_at": "2025-08-07T11:03:06.562049",
+        "extraction_method": "video_metadata_and_transcription",
+        "item_id": "c716504176992c57d3a5dca5a40b1e8d",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "video_content_3c2981d46827687803e0a850197cbb62",
+      "title": "Video: 1.1 About this Module - Video Content: IES Elementary Overview (1)",
+      "content": "Video: IES Elementary Overview (1)\nDuration: 334.40 seconds\nResolution: 1280x720\nFPS: 29.97002997002997\nTranscript: Writing is a fundamental part of engaging in professional social community and civic activities many employees have at least some responsibility for writing and the ability to write well is a critical component of being able to communicate effectively to a variety of audiences writing is not only a valuable tool for communicating to others but it can also be used to help clarify one's own ideas in the learning process and as a means of self-expression in addition people with strong writing skills may have an advantage throughout their school career and in the job market the authors of the Institute of Education sciences practice guide teaching elementary school students to be effective writers believe that students who develop strong writing skills at an early age acquire valuable tools for learning communication and self-expression these skills can be developed through effective writing instruction practices that include adequate time for students to write this video describes 6 strategies for teaching writing to elementary students based on the recommendations in the practice guide these strategies are also highlighted on the rel SE infographic instructional strategies for teaching writing to elementary students from the time students begin writing in kindergarten it is important that they are provided with explicit instruction not only do students need to learn to physically write letters words and sentences but they need to gain an understanding of the writing process the means through which a writer composes text components of the writing process include planning drafting sharing evaluating revising and editing students must be taught how to engage in each of these and the fact that writing is not a linear process they will often move back and forth amongst components teachers will need to engage in the I do we do you do process to help students learn how to develop their writing skills as students learn to compose text teachers need to provide a variety of strategies to help them engage in the writing process for instance teaching students to organize their thoughts and ideas in an outline before they begin writing may be helpful also using acronyms such as pow for pick ideas organized notes write and say more may help students recall strategies that may help them as they plan draft and finalize writing projects it is important to note that explicit writing instruction should occur across content areas students need to learn how to write depending on their purpose and audience a report for science is written differently than a narrative report written for social studies they will need to learn the important characteristics of different types of writing and should have opportunities over the course of the school year to write for a variety of purposes and audiences mentor texts can be an important tool to help teachers show students what various types of writing look like and to demonstrate the techniques used that are specific to a particular type of text elementary school teachers are the best writers in their classrooms and it is important that they show their students how to write a document camera can be an excellent tool to enable teachers to write in front of their students teachers may think aloud as they demonstrate the various components of writing or engage in writing a specific portion of text such as an introduction students need to see their teachers right think rethink and rewrite more than likely students will not all be at the same level when it comes to the development of their writing skills and they will need varying levels of support teachers will need to identify the strengths and weaknesses in student writing so instruction can be differentiated and scaffolded when necessary when students strengths and needs are identified teachers may work with small groups who need help with a similar skill or perhaps one-on-one with particular students teachers should build on the strengths of their students and provide opportunities for students who are doing well to continue to develop their skills students need not only to develop writing skills but they also need to be motivated to write oftentimes writing centers provide a supportive and collaborative environment so that students are encouraged to grow as writers students may be provided the opportunity to choose their own writing topics work with one another and also share final products in addition a variety of tools may be provided in the centre depending on the grade level of students younger students may have access to paper variety of colors and markers or crayons while older students may use a computer sticky notes highlighters etcetera when students have choices and feel connected to their teachers and to one another they may feel safe to engage freely in the writing process the importance of the ability to write well cannot be overstated and these skills must be taught early when teachers provide explicit instruction teach students to use a variety of strategies provide writing instruction across content areas model the writing process for students provide scaffolding instruction and allow students to collaborate in writing centers students can develop strong writing skills these skills will be invaluable to them as they move through their school careers into their professional lives and engage in civic and community responsibilities",
+      "content_type": "video_content",
+      "file_path": "scormcontent/assets/IES Elementary Overview (1).mp4",
+      "metadata": {
+        "source": "video_file",
+        "duration": 334.4,
+        "resolution": [
+          1280,
+          720
+        ],
+        "fps": 29.97002997002997,
+        "file_size": 52487264,
+        "transcript_available": true,
+        "transcript_length": 5412,
+        "extracted_at": "2025-08-07T11:05:50.784445",
+        "extraction_method": "video_metadata_and_transcription",
+        "item_id": "3c2981d46827687803e0a850197cbb62",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "video_content_40694072d276a714f281ba860d34bf75",
+      "title": "Video: 1.1 About this Module - Video Content: The Writing Rope_",
+      "content": "Video: The Writing Rope_\nDuration: 593.83 seconds\nResolution: 1280x720\nFPS: 29.97002997002997\nTranscript: The writing rope basically has five pieces to it each one could be represented as if they were strands in a rope right and each one we can talk about it instruction about each level of the writing rope and think about what we need to teach it and to practice it but in the end what students have to be able to do is integrate all of them at the same time like strands in a row and then put them all together to be an effective writing So what people often ask me what what are the strands in the rope what are those components well why did you organize it the way you did the first strand is the critical thinking and I put that up at the top and this involves all the skills and strategies that are needed to be able to write about what you're thinking write about what you're learning write about what you're reading so this includes everything from if you're reading something or watching a video right and you want to write about it it includes that ability to 1st decide what's important and that involves a lot of critical thinking it then involves being able to take some notes somehow to get that down because you're not going to hold it all in your head right so how do you get that down so it's note taking skills but then it's also thinking about how you want to plan what you want to say about what you've just read or learned and that starts to get us into another part of that first strand which is the pages of the writing process that first you have to think a little then you have to plan a little then you write a little then you revise what you wrote and then you recycle through that so that's the critical thinking part of the strand it encompasses an awful lot of skills and strategies as well as the stages in the writing process the second strand in the rope has to do with sentences I call it syntax but it's syntactic awareness actually that you're trying to develop with students and you know if you think about it the individual sentence is like aside from words it's the like the smallest unit of structure in a piece of writing but if you can't write a good sentence you're not going to be able to write anything else that's longer and so it really is the core and then we have a lot of older students who have difficulty with writing and the problem is going right back to that basic sentence level so that's the second strand the third strand of the writing rope has to do with text structure and this this can cover really broad levels of text structure so for example if you think about the three major types or genres of writing the narrative informational and opinion or argument if you're an older student what are the structures that represent those three types how do you write an introduction for each of them or a conclusion how is the body developed you know narrative the organizational structure might be beginning middle end informational it's gonna be big ideas and sub ideas opinion it's gonna be reasons and evidence and counterclaims and rebuttals so that's the broadest level of text structure but the next level down is paragraphs structure and paragraph structure along with sentence writing is are the two sort of basic building blocks of being able to write any piece of text and we have many many students who do not have a sense of what a paragraph is how you can organize your ideas into paragraphs that when you move from one main idea to another main idea that that's time to start a\n\nAnd then another piece that's very much connected to that are what's called patterns of organization so that includes descriptive writing sequence or chronology cause and effect right problem and solution so patterns of organization and that could be at a particular paragraph level I'm going to describe in this paragraph and then this one I'm going to tell the order or it could be several within one paragraph and then the final piece of the text structure strand of the writing rope our transition words and phrases these are little they're gems they're like worth their weight in gold and students who have good language skills transitions come naturally to them they know to say however and therefore and 1st and next and on the other hand but for students who struggle with language and and and getting their ideas out these words don't come naturally so we need to explicitly teach them and they very often signal a pattern of organization or they they signal that you're about to move from one paragraph to another so that's the third strand of the rope the 4th strand of the writing rope has to do with what I labeled writing craft so this can include anything from let's say how you use dialogue in a narrative to get across a certain emotion right or to get across some ideas that you want the reader to understand it includes all those other literary devices that are out there right you know flashback allegory simile metaphor there's so many of them but the other thing that I tucked in under this strand of the rope is what's referred to often as tap and that's audience and purpose because as a writer if you're not thinking about your audience then you're not your writing isn't going to address the needs of that audience and so a writer needs to always be thinking about who's going to read this what is my purpose for writing this and what is the actual task and that then ends up connecting with a lot of writers craft or writers move now one of the things about writing craft that 4th strand of the rope is that one of the ways to help students learn a particular technique maybe it's how to use a transition word or how to use dialogue between 2 characters is to show students what's called mentor models of that so you pick two or three really good examples of that specific skill that you want to explicitly teach you have the students see how another author has done that you talk about it you think it out loud the teacher actually models that writers move or writers craft or even a writing skill and then the students try it on their own with guided practice the 5th strand in the writing rope is about transcription skills So what does that mean they are literally skills including spelling handwriting and or keyboarding and they're the skills that you need to literally transcribe the words on the page very often these I sort of see these skills as best taught like in a phonics lesson rather than in a lesson where you're teaching students the skills that are associated with the other 4 strands of the rope the critical thinking the text structure the sentence skills the writing craft right because transcription skills are all about with this as it relates to the spelling if students have a word they want to express they need to know how to spell it which means they need to know the alphabetic principle and they need to know how phonemes the sounds and the words are represented by graphemes and all of that is best taught during a phonics lesson where you're learning those skills not only to spell the words but also to decode them I also think especially with young children handwriting actually begins when you're first learning the letter shape associated with the letter sound and so as students are learning a letter sound combination maybe the letter H that goes with the sound if they are also writing that out both the uppercase and the lowercase if they're writing that out as they're saying the sound and seeing the letter it not only supports their growth of alphabetic knowledge but it also that's where they begin beginning handwriting skills one of the thing that I'd like to say about transcription skills I think it has sort of a corollary to something that we see when it comes to reading and that is we know when it comes to decoding skills students as they get older who have not developed solid fluency right that ability to see words sound them out quickly get to the word and read it right we know that if students are not fluent with that by the time they hit grade end of grade 3 or 4 it's going to put it's going to tax the thinking part of their reading their ability to focus on making meaning when they read and I think it's very similar with writing especially by the time students are in 4th grade if they aren't fluent with being able to spell the words they want to say and handwrite or type them out then they're putting so much energy into that transcription part of the act that there's not much left over for the critical thinking or the application of text structure knowledge or how to apply things like being aware of the task audience and purpose and getting across the actual meaning in what you want to say",
+      "content_type": "video_content",
+      "file_path": "scormcontent/assets/The Writing Rope_.mp4",
+      "metadata": {
+        "source": "video_file",
+        "duration": 593.83,
+        "resolution": [
+          1280,
+          720
+        ],
+        "fps": 29.97002997002997,
+        "file_size": 190822057,
+        "transcript_available": true,
+        "transcript_length": 8636,
+        "extracted_at": "2025-08-07T11:11:40.341340",
+        "extraction_method": "video_metadata_and_transcription",
+        "item_id": "40694072d276a714f281ba860d34bf75",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    }
+  ],
+  "audio_content": [],
+  "transcript_content": [
+    {
+      "id": "transcript_content_c716504176992c57d3a5dca5a40b1e8d",
+      "title": "Transcript: 1.1 About this Module - Video Transcript: 173_joan_sedita_how_to_use_mentor_texts_final (1080p) CC",
+      "content": "All of us learn to write by being taught certain skills and strategies but we also learn to write by emulating other writers very simple example if you've been in a car accident and you go down to the police station and you have to write an accident report and you've never written one before what do you do you say can I view some accident reports and see how others do it and then you look at a few models and you go OK I know how to do this right or let's say you're an educator and you're writing a grant for some funding and you've never written a grant before what do you do you look at how other grants have been written and then all of a sudden you emulate it so this is true with young children as well if we can look at how others write really beautiful sentences elaborated sentences if we can see how others use a really great transition word to make a connection between one sentence and another if we're trying to learn how to write an introduction to an opinion or argument piece and how to state a claim and we can see how other people have stated claims we emulate that and that's the whole oh goal or usefulness of what's called mentor text now too often what teachers do with mentor text is they'll take maybe a whole poem or a whole chapter in a book or an article and they'll say this is what a good informational piece will look like so make your writing look like that that's too overwhelming that's the mistake they make the other mistake is that just by showing students a good example of a piece of writing the students will magically figure out how to emulate it what we have to be careful with mentor text is #1 pick the text for a very specific purpose so I want to teach students how to use the trans the transcription word next or finally find a couple of examples they might just be two or three sentences where somebody's really done a great job of that unpack it with the students and then say now you try to do the same thing but with something you're writing about and it's that explicitness the guided practice and that sort of very narrow focus for your mentor text the other thing I'd suggest about mentor text is show more than one example so you know if you can find two or three examples that's even better",
+      "content_type": "transcript_content",
+      "file_path": "scormcontent/assets/173_joan_sedita_how_to_use_mentor_texts_final (1080p) CC.mp4",
+      "metadata": {
+        "source": "video_transcript",
+        "video_file": "scormcontent/assets/173_joan_sedita_how_to_use_mentor_texts_final (1080p) CC.mp4",
+        "duration": 157.96,
+        "extracted_at": "2025-08-07T11:03:06.562837",
+        "extraction_method": "speech_to_text_transcription",
+        "item_id": "c716504176992c57d3a5dca5a40b1e8d",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "transcript_content_3c2981d46827687803e0a850197cbb62",
+      "title": "Transcript: 1.1 About this Module - Video Transcript: IES Elementary Overview (1)",
+      "content": "Writing is a fundamental part of engaging in professional social community and civic activities many employees have at least some responsibility for writing and the ability to write well is a critical component of being able to communicate effectively to a variety of audiences writing is not only a valuable tool for communicating to others but it can also be used to help clarify one's own ideas in the learning process and as a means of self-expression in addition people with strong writing skills may have an advantage throughout their school career and in the job market the authors of the Institute of Education sciences practice guide teaching elementary school students to be effective writers believe that students who develop strong writing skills at an early age acquire valuable tools for learning communication and self-expression these skills can be developed through effective writing instruction practices that include adequate time for students to write this video describes 6 strategies for teaching writing to elementary students based on the recommendations in the practice guide these strategies are also highlighted on the rel SE infographic instructional strategies for teaching writing to elementary students from the time students begin writing in kindergarten it is important that they are provided with explicit instruction not only do students need to learn to physically write letters words and sentences but they need to gain an understanding of the writing process the means through which a writer composes text components of the writing process include planning drafting sharing evaluating revising and editing students must be taught how to engage in each of these and the fact that writing is not a linear process they will often move back and forth amongst components teachers will need to engage in the I do we do you do process to help students learn how to develop their writing skills as students learn to compose text teachers need to provide a variety of strategies to help them engage in the writing process for instance teaching students to organize their thoughts and ideas in an outline before they begin writing may be helpful also using acronyms such as pow for pick ideas organized notes write and say more may help students recall strategies that may help them as they plan draft and finalize writing projects it is important to note that explicit writing instruction should occur across content areas students need to learn how to write depending on their purpose and audience a report for science is written differently than a narrative report written for social studies they will need to learn the important characteristics of different types of writing and should have opportunities over the course of the school year to write for a variety of purposes and audiences mentor texts can be an important tool to help teachers show students what various types of writing look like and to demonstrate the techniques used that are specific to a particular type of text elementary school teachers are the best writers in their classrooms and it is important that they show their students how to write a document camera can be an excellent tool to enable teachers to write in front of their students teachers may think aloud as they demonstrate the various components of writing or engage in writing a specific portion of text such as an introduction students need to see their teachers right think rethink and rewrite more than likely students will not all be at the same level when it comes to the development of their writing skills and they will need varying levels of support teachers will need to identify the strengths and weaknesses in student writing so instruction can be differentiated and scaffolded when necessary when students strengths and needs are identified teachers may work with small groups who need help with a similar skill or perhaps one-on-one with particular students teachers should build on the strengths of their students and provide opportunities for students who are doing well to continue to develop their skills students need not only to develop writing skills but they also need to be motivated to write oftentimes writing centers provide a supportive and collaborative environment so that students are encouraged to grow as writers students may be provided the opportunity to choose their own writing topics work with one another and also share final products in addition a variety of tools may be provided in the centre depending on the grade level of students younger students may have access to paper variety of colors and markers or crayons while older students may use a computer sticky notes highlighters etcetera when students have choices and feel connected to their teachers and to one another they may feel safe to engage freely in the writing process the importance of the ability to write well cannot be overstated and these skills must be taught early when teachers provide explicit instruction teach students to use a variety of strategies provide writing instruction across content areas model the writing process for students provide scaffolding instruction and allow students to collaborate in writing centers students can develop strong writing skills these skills will be invaluable to them as they move through their school careers into their professional lives and engage in civic and community responsibilities",
+      "content_type": "transcript_content",
+      "file_path": "scormcontent/assets/IES Elementary Overview (1).mp4",
+      "metadata": {
+        "source": "video_transcript",
+        "video_file": "scormcontent/assets/IES Elementary Overview (1).mp4",
+        "duration": 334.4,
+        "extracted_at": "2025-08-07T11:05:50.785897",
+        "extraction_method": "speech_to_text_transcription",
+        "item_id": "3c2981d46827687803e0a850197cbb62",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "transcript_content_40694072d276a714f281ba860d34bf75",
+      "title": "Transcript: 1.1 About this Module - Video Transcript: The Writing Rope_",
+      "content": "The writing rope basically has five pieces to it each one could be represented as if they were strands in a rope right and each one we can talk about it instruction about each level of the writing rope and think about what we need to teach it and to practice it but in the end what students have to be able to do is integrate all of them at the same time like strands in a row and then put them all together to be an effective writing So what people often ask me what what are the strands in the rope what are those components well why did you organize it the way you did the first strand is the critical thinking and I put that up at the top and this involves all the skills and strategies that are needed to be able to write about what you're thinking write about what you're learning write about what you're reading so this includes everything from if you're reading something or watching a video right and you want to write about it it includes that ability to 1st decide what's important and that involves a lot of critical thinking it then involves being able to take some notes somehow to get that down because you're not going to hold it all in your head right so how do you get that down so it's note taking skills but then it's also thinking about how you want to plan what you want to say about what you've just read or learned and that starts to get us into another part of that first strand which is the pages of the writing process that first you have to think a little then you have to plan a little then you write a little then you revise what you wrote and then you recycle through that so that's the critical thinking part of the strand it encompasses an awful lot of skills and strategies as well as the stages in the writing process the second strand in the rope has to do with sentences I call it syntax but it's syntactic awareness actually that you're trying to develop with students and you know if you think about it the individual sentence is like aside from words it's the like the smallest unit of structure in a piece of writing but if you can't write a good sentence you're not going to be able to write anything else that's longer and so it really is the core and then we have a lot of older students who have difficulty with writing and the problem is going right back to that basic sentence level so that's the second strand the third strand of the writing rope has to do with text structure and this this can cover really broad levels of text structure so for example if you think about the three major types or genres of writing the narrative informational and opinion or argument if you're an older student what are the structures that represent those three types how do you write an introduction for each of them or a conclusion how is the body developed you know narrative the organizational structure might be beginning middle end informational it's gonna be big ideas and sub ideas opinion it's gonna be reasons and evidence and counterclaims and rebuttals so that's the broadest level of text structure but the next level down is paragraphs structure and paragraph structure along with sentence writing is are the two sort of basic building blocks of being able to write any piece of text and we have many many students who do not have a sense of what a paragraph is how you can organize your ideas into paragraphs that when you move from one main idea to another main idea that that's time to start a\n\nAnd then another piece that's very much connected to that are what's called patterns of organization so that includes descriptive writing sequence or chronology cause and effect right problem and solution so patterns of organization and that could be at a particular paragraph level I'm going to describe in this paragraph and then this one I'm going to tell the order or it could be several within one paragraph and then the final piece of the text structure strand of the writing rope our transition words and phrases these are little they're gems they're like worth their weight in gold and students who have good language skills transitions come naturally to them they know to say however and therefore and 1st and next and on the other hand but for students who struggle with language and and and getting their ideas out these words don't come naturally so we need to explicitly teach them and they very often signal a pattern of organization or they they signal that you're about to move from one paragraph to another so that's the third strand of the rope the 4th strand of the writing rope has to do with what I labeled writing craft so this can include anything from let's say how you use dialogue in a narrative to get across a certain emotion right or to get across some ideas that you want the reader to understand it includes all those other literary devices that are out there right you know flashback allegory simile metaphor there's so many of them but the other thing that I tucked in under this strand of the rope is what's referred to often as tap and that's audience and purpose because as a writer if you're not thinking about your audience then you're not your writing isn't going to address the needs of that audience and so a writer needs to always be thinking about who's going to read this what is my purpose for writing this and what is the actual task and that then ends up connecting with a lot of writers craft or writers move now one of the things about writing craft that 4th strand of the rope is that one of the ways to help students learn a particular technique maybe it's how to use a transition word or how to use dialogue between 2 characters is to show students what's called mentor models of that so you pick two or three really good examples of that specific skill that you want to explicitly teach you have the students see how another author has done that you talk about it you think it out loud the teacher actually models that writers move or writers craft or even a writing skill and then the students try it on their own with guided practice the 5th strand in the writing rope is about transcription skills So what does that mean they are literally skills including spelling handwriting and or keyboarding and they're the skills that you need to literally transcribe the words on the page very often these I sort of see these skills as best taught like in a phonics lesson rather than in a lesson where you're teaching students the skills that are associated with the other 4 strands of the rope the critical thinking the text structure the sentence skills the writing craft right because transcription skills are all about with this as it relates to the spelling if students have a word they want to express they need to know how to spell it which means they need to know the alphabetic principle and they need to know how phonemes the sounds and the words are represented by graphemes and all of that is best taught during a phonics lesson where you're learning those skills not only to spell the words but also to decode them I also think especially with young children handwriting actually begins when you're first learning the letter shape associated with the letter sound and so as students are learning a letter sound combination maybe the letter H that goes with the sound if they are also writing that out both the uppercase and the lowercase if they're writing that out as they're saying the sound and seeing the letter it not only supports their growth of alphabetic knowledge but it also that's where they begin beginning handwriting skills one of the thing that I'd like to say about transcription skills I think it has sort of a corollary to something that we see when it comes to reading and that is we know when it comes to decoding skills students as they get older who have not developed solid fluency right that ability to see words sound them out quickly get to the word and read it right we know that if students are not fluent with that by the time they hit grade end of grade 3 or 4 it's going to put it's going to tax the thinking part of their reading their ability to focus on making meaning when they read and I think it's very similar with writing especially by the time students are in 4th grade if they aren't fluent with being able to spell the words they want to say and handwrite or type them out then they're putting so much energy into that transcription part of the act that there's not much left over for the critical thinking or the application of text structure knowledge or how to apply things like being aware of the task audience and purpose and getting across the actual meaning in what you want to say",
+      "content_type": "transcript_content",
+      "file_path": "scormcontent/assets/The Writing Rope_.mp4",
+      "metadata": {
+        "source": "video_transcript",
+        "video_file": "scormcontent/assets/The Writing Rope_.mp4",
+        "duration": 593.83,
+        "extracted_at": "2025-08-07T11:11:40.346115",
+        "extraction_method": "speech_to_text_transcription",
+        "item_id": "40694072d276a714f281ba860d34bf75",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "transcript_content_41f0ab53d1c45c653c5a6c8d346eaeb6",
+      "title": "Transcript: 1.1 About this Module - Video Transcript: Video IES Transcription Skills",
+      "content": "Welcome to the overview on teaching foundational skills to help students become effective writers students need to learn foundational writing skills so that they can focus more on developing and communicating ideas in their writing handwriting spelling sentence construction typing and word processing should become effortless as students move to middle and upper elementary school younger students need explicit instruction and frequent practice to acquire and Polish these skills young writers in kindergarten and 1st grade need to learn how to hold a pencil and form letters correctly teachers should demonstrate how to hold a pencil comfortably between the thumb and forefinger while resting on the middle finger although children may change their grip overtime a comfortable pencil grip will prevent students from getting tired which can discourage writing teachers need to show young children how to form print and cursive letters correctly from memory handwriting practice diagrams can be helpful in showing students how to form letters practicing specific letters in isolation is not sufficient to achieve handwriting proficiency students need to apply their handwriting skills to authentic writing activities handwriting practice is most effective when done in multiple short sessions students need to be proficient in the foundational skill of spelling teachers need to both help students learn the spelling of commonly used words and teach them how to generate and check plausible spellings of words they have not yet mastered as students are drafting they can learn how to apply spelling rules and check for correct spelling teachers can encourage very young children to write by allowing them to use invented spelling or trying to spell a word using what they know about letter sounds and patterns as students learn how to spell more words they should rely less on invented spelling while writing students can learn how to spell words by analogy they apply the spelling of a known word to generate a plausible spelling for an unknown but similar word for example if students know how to spell camp they can use that knowledge when learning to spell lamp",
+      "content_type": "transcript_content",
+      "file_path": "scormcontent/assets/Video IES Transcription Skills.mp4",
+      "metadata": {
+        "source": "video_transcript",
+        "video_file": "scormcontent/assets/Video IES Transcription Skills.mp4",
+        "duration": 140.44,
+        "extracted_at": "2025-08-07T11:12:48.605950",
+        "extraction_method": "speech_to_text_transcription",
+        "item_id": "41f0ab53d1c45c653c5a6c8d346eaeb6",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "transcript_content_c716504176992c57d3a5dca5a40b1e8d",
+      "title": "Transcript: 1.1 About this Module - Video Transcript: 173_joan_sedita_how_to_use_mentor_texts_final (1080p) CC",
+      "content": "All of us learn to write by being taught certain skills and strategies but we also learn to write by emulating other writers very simple example if you've been in a car accident and you go down to the police station and you have to write an accident report and you've never written one before what do you do you say can I view some accident reports and see how others do it and then you look at a few models and you go OK I know how to do this right or let's say you're an educator and you're writing a grant for some funding and you've never written a grant before what do you do you look at how other grants have been written and then all of a sudden you emulate it so this is true with young children as well if we can look at how others write really beautiful sentences elaborated sentences if we can see how others use a really great transition word to make a connection between one sentence and another if we're trying to learn how to write an introduction to an opinion or argument piece and how to state a claim and we can see how other people have stated claims we emulate that and that's the whole oh goal or usefulness of what's called mentor text now too often what teachers do with mentor text is they'll take maybe a whole poem or a whole chapter in a book or an article and they'll say this is what a good informational piece will look like so make your writing look like that that's too overwhelming that's the mistake they make the other mistake is that just by showing students a good example of a piece of writing the students will magically figure out how to emulate it what we have to be careful with mentor text is #1 pick the text for a very specific purpose so I want to teach students how to use the trans the transcription word next or finally find a couple of examples they might just be two or three sentences where somebody's really done a great job of that unpack it with the students and then say now you try to do the same thing but with something you're writing about and it's that explicitness the guided practice and that sort of very narrow focus for your mentor text the other thing I'd suggest about mentor text is show more than one example so you know if you can find two or three examples that's even better",
+      "content_type": "transcript_content",
+      "file_path": "scormcontent/assets/173_joan_sedita_how_to_use_mentor_texts_final (1080p) CC.mp4",
+      "metadata": {
+        "source": "video_transcript",
+        "video_file": "scormcontent/assets/173_joan_sedita_how_to_use_mentor_texts_final (1080p) CC.mp4",
+        "duration": 157.96,
+        "extracted_at": "2025-08-07T11:03:06.562837",
+        "extraction_method": "speech_to_text_transcription",
+        "item_id": "c716504176992c57d3a5dca5a40b1e8d",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "transcript_content_3c2981d46827687803e0a850197cbb62",
+      "title": "Transcript: 1.1 About this Module - Video Transcript: IES Elementary Overview (1)",
+      "content": "Writing is a fundamental part of engaging in professional social community and civic activities many employees have at least some responsibility for writing and the ability to write well is a critical component of being able to communicate effectively to a variety of audiences writing is not only a valuable tool for communicating to others but it can also be used to help clarify one's own ideas in the learning process and as a means of self-expression in addition people with strong writing skills may have an advantage throughout their school career and in the job market the authors of the Institute of Education sciences practice guide teaching elementary school students to be effective writers believe that students who develop strong writing skills at an early age acquire valuable tools for learning communication and self-expression these skills can be developed through effective writing instruction practices that include adequate time for students to write this video describes 6 strategies for teaching writing to elementary students based on the recommendations in the practice guide these strategies are also highlighted on the rel SE infographic instructional strategies for teaching writing to elementary students from the time students begin writing in kindergarten it is important that they are provided with explicit instruction not only do students need to learn to physically write letters words and sentences but they need to gain an understanding of the writing process the means through which a writer composes text components of the writing process include planning drafting sharing evaluating revising and editing students must be taught how to engage in each of these and the fact that writing is not a linear process they will often move back and forth amongst components teachers will need to engage in the I do we do you do process to help students learn how to develop their writing skills as students learn to compose text teachers need to provide a variety of strategies to help them engage in the writing process for instance teaching students to organize their thoughts and ideas in an outline before they begin writing may be helpful also using acronyms such as pow for pick ideas organized notes write and say more may help students recall strategies that may help them as they plan draft and finalize writing projects it is important to note that explicit writing instruction should occur across content areas students need to learn how to write depending on their purpose and audience a report for science is written differently than a narrative report written for social studies they will need to learn the important characteristics of different types of writing and should have opportunities over the course of the school year to write for a variety of purposes and audiences mentor texts can be an important tool to help teachers show students what various types of writing look like and to demonstrate the techniques used that are specific to a particular type of text elementary school teachers are the best writers in their classrooms and it is important that they show their students how to write a document camera can be an excellent tool to enable teachers to write in front of their students teachers may think aloud as they demonstrate the various components of writing or engage in writing a specific portion of text such as an introduction students need to see their teachers right think rethink and rewrite more than likely students will not all be at the same level when it comes to the development of their writing skills and they will need varying levels of support teachers will need to identify the strengths and weaknesses in student writing so instruction can be differentiated and scaffolded when necessary when students strengths and needs are identified teachers may work with small groups who need help with a similar skill or perhaps one-on-one with particular students teachers should build on the strengths of their students and provide opportunities for students who are doing well to continue to develop their skills students need not only to develop writing skills but they also need to be motivated to write oftentimes writing centers provide a supportive and collaborative environment so that students are encouraged to grow as writers students may be provided the opportunity to choose their own writing topics work with one another and also share final products in addition a variety of tools may be provided in the centre depending on the grade level of students younger students may have access to paper variety of colors and markers or crayons while older students may use a computer sticky notes highlighters etcetera when students have choices and feel connected to their teachers and to one another they may feel safe to engage freely in the writing process the importance of the ability to write well cannot be overstated and these skills must be taught early when teachers provide explicit instruction teach students to use a variety of strategies provide writing instruction across content areas model the writing process for students provide scaffolding instruction and allow students to collaborate in writing centers students can develop strong writing skills these skills will be invaluable to them as they move through their school careers into their professional lives and engage in civic and community responsibilities",
+      "content_type": "transcript_content",
+      "file_path": "scormcontent/assets/IES Elementary Overview (1).mp4",
+      "metadata": {
+        "source": "video_transcript",
+        "video_file": "scormcontent/assets/IES Elementary Overview (1).mp4",
+        "duration": 334.4,
+        "extracted_at": "2025-08-07T11:05:50.785897",
+        "extraction_method": "speech_to_text_transcription",
+        "item_id": "3c2981d46827687803e0a850197cbb62",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "transcript_content_40694072d276a714f281ba860d34bf75",
+      "title": "Transcript: 1.1 About this Module - Video Transcript: The Writing Rope_",
+      "content": "The writing rope basically has five pieces to it each one could be represented as if they were strands in a rope right and each one we can talk about it instruction about each level of the writing rope and think about what we need to teach it and to practice it but in the end what students have to be able to do is integrate all of them at the same time like strands in a row and then put them all together to be an effective writing So what people often ask me what what are the strands in the rope what are those components well why did you organize it the way you did the first strand is the critical thinking and I put that up at the top and this involves all the skills and strategies that are needed to be able to write about what you're thinking write about what you're learning write about what you're reading so this includes everything from if you're reading something or watching a video right and you want to write about it it includes that ability to 1st decide what's important and that involves a lot of critical thinking it then involves being able to take some notes somehow to get that down because you're not going to hold it all in your head right so how do you get that down so it's note taking skills but then it's also thinking about how you want to plan what you want to say about what you've just read or learned and that starts to get us into another part of that first strand which is the pages of the writing process that first you have to think a little then you have to plan a little then you write a little then you revise what you wrote and then you recycle through that so that's the critical thinking part of the strand it encompasses an awful lot of skills and strategies as well as the stages in the writing process the second strand in the rope has to do with sentences I call it syntax but it's syntactic awareness actually that you're trying to develop with students and you know if you think about it the individual sentence is like aside from words it's the like the smallest unit of structure in a piece of writing but if you can't write a good sentence you're not going to be able to write anything else that's longer and so it really is the core and then we have a lot of older students who have difficulty with writing and the problem is going right back to that basic sentence level so that's the second strand the third strand of the writing rope has to do with text structure and this this can cover really broad levels of text structure so for example if you think about the three major types or genres of writing the narrative informational and opinion or argument if you're an older student what are the structures that represent those three types how do you write an introduction for each of them or a conclusion how is the body developed you know narrative the organizational structure might be beginning middle end informational it's gonna be big ideas and sub ideas opinion it's gonna be reasons and evidence and counterclaims and rebuttals so that's the broadest level of text structure but the next level down is paragraphs structure and paragraph structure along with sentence writing is are the two sort of basic building blocks of being able to write any piece of text and we have many many students who do not have a sense of what a paragraph is how you can organize your ideas into paragraphs that when you move from one main idea to another main idea that that's time to start a\n\nAnd then another piece that's very much connected to that are what's called patterns of organization so that includes descriptive writing sequence or chronology cause and effect right problem and solution so patterns of organization and that could be at a particular paragraph level I'm going to describe in this paragraph and then this one I'm going to tell the order or it could be several within one paragraph and then the final piece of the text structure strand of the writing rope our transition words and phrases these are little they're gems they're like worth their weight in gold and students who have good language skills transitions come naturally to them they know to say however and therefore and 1st and next and on the other hand but for students who struggle with language and and and getting their ideas out these words don't come naturally so we need to explicitly teach them and they very often signal a pattern of organization or they they signal that you're about to move from one paragraph to another so that's the third strand of the rope the 4th strand of the writing rope has to do with what I labeled writing craft so this can include anything from let's say how you use dialogue in a narrative to get across a certain emotion right or to get across some ideas that you want the reader to understand it includes all those other literary devices that are out there right you know flashback allegory simile metaphor there's so many of them but the other thing that I tucked in under this strand of the rope is what's referred to often as tap and that's audience and purpose because as a writer if you're not thinking about your audience then you're not your writing isn't going to address the needs of that audience and so a writer needs to always be thinking about who's going to read this what is my purpose for writing this and what is the actual task and that then ends up connecting with a lot of writers craft or writers move now one of the things about writing craft that 4th strand of the rope is that one of the ways to help students learn a particular technique maybe it's how to use a transition word or how to use dialogue between 2 characters is to show students what's called mentor models of that so you pick two or three really good examples of that specific skill that you want to explicitly teach you have the students see how another author has done that you talk about it you think it out loud the teacher actually models that writers move or writers craft or even a writing skill and then the students try it on their own with guided practice the 5th strand in the writing rope is about transcription skills So what does that mean they are literally skills including spelling handwriting and or keyboarding and they're the skills that you need to literally transcribe the words on the page very often these I sort of see these skills as best taught like in a phonics lesson rather than in a lesson where you're teaching students the skills that are associated with the other 4 strands of the rope the critical thinking the text structure the sentence skills the writing craft right because transcription skills are all about with this as it relates to the spelling if students have a word they want to express they need to know how to spell it which means they need to know the alphabetic principle and they need to know how phonemes the sounds and the words are represented by graphemes and all of that is best taught during a phonics lesson where you're learning those skills not only to spell the words but also to decode them I also think especially with young children handwriting actually begins when you're first learning the letter shape associated with the letter sound and so as students are learning a letter sound combination maybe the letter H that goes with the sound if they are also writing that out both the uppercase and the lowercase if they're writing that out as they're saying the sound and seeing the letter it not only supports their growth of alphabetic knowledge but it also that's where they begin beginning handwriting skills one of the thing that I'd like to say about transcription skills I think it has sort of a corollary to something that we see when it comes to reading and that is we know when it comes to decoding skills students as they get older who have not developed solid fluency right that ability to see words sound them out quickly get to the word and read it right we know that if students are not fluent with that by the time they hit grade end of grade 3 or 4 it's going to put it's going to tax the thinking part of their reading their ability to focus on making meaning when they read and I think it's very similar with writing especially by the time students are in 4th grade if they aren't fluent with being able to spell the words they want to say and handwrite or type them out then they're putting so much energy into that transcription part of the act that there's not much left over for the critical thinking or the application of text structure knowledge or how to apply things like being aware of the task audience and purpose and getting across the actual meaning in what you want to say",
+      "content_type": "transcript_content",
+      "file_path": "scormcontent/assets/The Writing Rope_.mp4",
+      "metadata": {
+        "source": "video_transcript",
+        "video_file": "scormcontent/assets/The Writing Rope_.mp4",
+        "duration": 593.83,
+        "extracted_at": "2025-08-07T11:11:40.346115",
+        "extraction_method": "speech_to_text_transcription",
+        "item_id": "40694072d276a714f281ba860d34bf75",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    },
+    {
+      "id": "transcript_content_41f0ab53d1c45c653c5a6c8d346eaeb6",
+      "title": "Transcript: 1.1 About this Module - Video Transcript: Video IES Transcription Skills",
+      "content": "Welcome to the overview on teaching foundational skills to help students become effective writers students need to learn foundational writing skills so that they can focus more on developing and communicating ideas in their writing handwriting spelling sentence construction typing and word processing should become effortless as students move to middle and upper elementary school younger students need explicit instruction and frequent practice to acquire and Polish these skills young writers in kindergarten and 1st grade need to learn how to hold a pencil and form letters correctly teachers should demonstrate how to hold a pencil comfortably between the thumb and forefinger while resting on the middle finger although children may change their grip overtime a comfortable pencil grip will prevent students from getting tired which can discourage writing teachers need to show young children how to form print and cursive letters correctly from memory handwriting practice diagrams can be helpful in showing students how to form letters practicing specific letters in isolation is not sufficient to achieve handwriting proficiency students need to apply their handwriting skills to authentic writing activities handwriting practice is most effective when done in multiple short sessions students need to be proficient in the foundational skill of spelling teachers need to both help students learn the spelling of commonly used words and teach them how to generate and check plausible spellings of words they have not yet mastered as students are drafting they can learn how to apply spelling rules and check for correct spelling teachers can encourage very young children to write by allowing them to use invented spelling or trying to spell a word using what they know about letter sounds and patterns as students learn how to spell more words they should rely less on invented spelling while writing students can learn how to spell words by analogy they apply the spelling of a known word to generate a plausible spelling for an unknown but similar word for example if students know how to spell camp they can use that knowledge when learning to spell lamp",
+      "content_type": "transcript_content",
+      "file_path": "scormcontent/assets/Video IES Transcription Skills.mp4",
+      "metadata": {
+        "source": "video_transcript",
+        "video_file": "scormcontent/assets/Video IES Transcription Skills.mp4",
+        "duration": 140.44,
+        "extracted_at": "2025-08-07T11:12:48.605950",
+        "extraction_method": "speech_to_text_transcription",
+        "item_id": "41f0ab53d1c45c653c5a6c8d346eaeb6",
+        "module_number": "1.1",
+        "module_title": "About this Module"
+      }
+    }
+  ]
+}

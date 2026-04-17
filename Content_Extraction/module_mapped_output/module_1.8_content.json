@@ -1,0 +1,46 @@
+{
+  "module_info": {
+    "module_number": "1.8",
+    "module_title": "Module Takeaways & Reflections",
+    "lesson_id": "AVpgA2hblCHA1rARUd6ZRyaToAXQ0xmE",
+    "lesson_title": "Lesson: 1.8 Module Takeaways & Reflections",
+    "total_content_items": 2
+  },
+  "lesson_metadata": [
+    {
+      "id": "lesson_AVpgA2hblCHA1rARUd6ZRyaToAXQ0xmE_72b2282f3d771bd61ecb1b26b7c3c62d",
+      "title": "Lesson: 1.8 Module Takeaways & Reflections",
+      "content": "Lesson Title: 1.8 Module Takeaways & Reflections\nDescription: \nType: blocks\nIcon: Article",
+      "content_type": "lesson_metadata",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "lesson_structure",
+        "lesson_id": "AVpgA2hblCHA1rARUd6ZRyaToAXQ0xmE",
+        "lesson_type": "blocks",
+        "extracted_at": "2025-08-04T17:17:21.822624",
+        "extraction_method": "lesson_structure_parsing"
+      }
+    },
+    {
+      "id": "lesson_AVpgA2hblCHA1rARUd6ZRyaToAXQ0xmE_72b2282f3d771bd61ecb1b26b7c3c62d",
+      "title": "Lesson: 1.8 Module Takeaways & Reflections",
+      "content": "Lesson Title: 1.8 Module Takeaways & Reflections\nDescription: \nType: blocks\nIcon: Article",
+      "content_type": "lesson_metadata",
+      "file_path": "scormcontent/locales/und.js",
+      "metadata": {
+        "source": "lesson_structure",
+        "lesson_id": "AVpgA2hblCHA1rARUd6ZRyaToAXQ0xmE",
+        "lesson_type": "blocks",
+        "extracted_at": "2025-08-04T17:17:21.822624",
+        "extraction_method": "lesson_structure_parsing"
+      }
+    }
+  ],
+  "lesson_content": [],
+  "quiz_content": [],
+  "pdf_content": [],
+  "image_content": [],
+  "video_content": [],
+  "audio_content": [],
+  "transcript_content": []
+}

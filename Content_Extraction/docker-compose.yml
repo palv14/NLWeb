@@ -1,0 +1,51 @@
+version: '3.8'
+
+services:
+  scorm-extractor:
+    build: .
+    container_name: scorm-content-extractor
+    environment:
+      - AZURE_SPEECH_KEY=${AZURE_SPEECH_KEY}
+      - AZURE_SPEECH_REGION=${AZURE_SPEECH_REGION:-eastus}
+      - COURSE_TITLE=${COURSE_TITLE:-"Keys to Early Writing: Module 1 Writing Basics"}
+      - SITE_NAME=${SITE_NAME:-writing_course}
+      - BASE_URL=${BASE_URL:-https://writing-course.com}
+    volumes:
+      - ./scorm_packages:/app/scorm_packages:ro
+      - ./extracted_content:/app/extracted_content
+      - ./lesson_extraction_output:/app/lesson_extraction_output
+      - ./video_extraction_output:/app/video_extraction_output
+      - ./pdf_extraction_output:/app/pdf_extraction_output
+      - ./image_extraction_output:/app/image_extraction_output
+      - ./quiz_extraction_output:/app/quiz_extraction_output
+    ports:
+      - "8000:8000"
+    healthcheck:
+      test: ["CMD", "python3", "health_check.py"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    restart: unless-stopped
+
+  # Optional: Elasticsearch for testing
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.8.0
+    container_name: elasticsearch
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    ports:
+      - "9200:9200"
+    volumes:
+      - elasticsearch_data:/usr/share/elasticsearch/data
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:9200/_cluster/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    restart: unless-stopped
+
+volumes:
+  elasticsearch_data: 
